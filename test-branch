@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Testing html Files for git</title>
+</head>
+<body>
+    <div class="hero-section">
+        <div class="hero">
+            <div class="hero-img">
+                <img src="butterfly.jpeg" alt="">
+            </div>
+            <div class="hero-title">
+                <h1>Butterfly</h1>
+            </div>
+            <div class="hero-subtitle">
+                <p>Butterfly is an insect which is colorful and has symmetrical wings</p>
+                <p>A Beautiful Insect</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
